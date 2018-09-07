@@ -1,0 +1,6 @@
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\bin\Debug\netcoreapp2.1\BSEnterprises.Persistence.deps.json
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\bin\Debug\netcoreapp2.1\BSEnterprises.Persistence.dll
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\Debug\netcoreapp2.1\BSEnterprises.Persistence.csprojAssemblyReference.cache
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\Debug\netcoreapp2.1\BSEnterprises.Persistence.csproj.CoreCompileInputs.cache
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\Debug\netcoreapp2.1\BSEnterprises.Persistence.AssemblyInfoInputs.cache
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\Debug\netcoreapp2.1\BSEnterprises.Persistence.AssemblyInfo.cs

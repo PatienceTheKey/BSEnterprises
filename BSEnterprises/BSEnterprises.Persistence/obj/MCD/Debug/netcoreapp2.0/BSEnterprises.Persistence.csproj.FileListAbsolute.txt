@@ -1,0 +1,12 @@
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.deps.json
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.dll
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.pdb
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.dll
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.pdb
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.csprojAssemblyReference.cache
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.csproj.CoreCompileInputs.cache
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.AssemblyInfoInputs.cache
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.AssemblyInfo.cs
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.csproj.CopyComplete
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.dll
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Persistence\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.pdb

@@ -1,0 +1,9 @@
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Domain\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.deps.json
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Domain\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.dll
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Domain\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.pdb
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Domain\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.csprojAssemblyReference.cache
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Domain\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.csproj.CoreCompileInputs.cache
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Domain\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.AssemblyInfoInputs.cache
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Domain\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.AssemblyInfo.cs
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Domain\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.dll
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.Domain\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.pdb

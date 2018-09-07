@@ -1,0 +1,8 @@
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\Debug\netcoreapp2.0\BSEnterprises.WebApp.deps.json
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\Debug\netcoreapp2.0\BSEnterprises.WebApp.runtimeconfig.json
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\Debug\netcoreapp2.0\BSEnterprises.WebApp.runtimeconfig.dev.json
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\Debug\netcoreapp2.0\BSEnterprises.WebApp.dll
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\Debug\netcoreapp2.0\BSEnterprises.WebApp.csprojAssemblyReference.cache
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\Debug\netcoreapp2.0\BSEnterprises.WebApp.csproj.CoreCompileInputs.cache
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\Debug\netcoreapp2.0\BSEnterprises.WebApp.AssemblyInfoInputs.cache
+F:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\Debug\netcoreapp2.0\BSEnterprises.WebApp.AssemblyInfo.cs

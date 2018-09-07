@@ -1,0 +1,16 @@
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.csprojAssemblyReference.cache
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.csproj.CoreCompileInputs.cache
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.AssemblyInfoInputs.cache
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.AssemblyInfo.cs
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.deps.json
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.runtimeconfig.json
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.runtimeconfig.dev.json
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.dll
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.pdb
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.dll
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.dll
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Domain.pdb
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\bin\MCD\Debug\netcoreapp2.0\BSEnterprises.Persistence.pdb
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.csproj.CopyComplete
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.dll
+f:\Own Repositories\BSEnterprises\BSEnterprises\BSEnterprises.WebApp\obj\MCD\Debug\netcoreapp2.0\BSEnterprises.WebApp.pdb
