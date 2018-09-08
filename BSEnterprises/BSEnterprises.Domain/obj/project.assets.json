@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\golu2\\.nuget\\packages\\": {},
+    "C:\\Users\\trishaanpc\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\Own Repositories\\BSEnterprises\\BSEnterprises\\BSEnterprises.Domain\\BSEnterprises.Domain.csproj",
+      "projectUniqueName": "d:\\Repos\\BSEnterprises\\BSEnterprises\\BSEnterprises.Domain\\BSEnterprises.Domain.csproj",
       "projectName": "BSEnterprises.Domain",
-      "projectPath": "f:\\Own Repositories\\BSEnterprises\\BSEnterprises\\BSEnterprises.Domain\\BSEnterprises.Domain.csproj",
-      "packagesPath": "C:\\Users\\golu2\\.nuget\\packages\\",
-      "outputPath": "f:\\Own Repositories\\BSEnterprises\\BSEnterprises\\BSEnterprises.Domain\\obj\\",
+      "projectPath": "d:\\Repos\\BSEnterprises\\BSEnterprises\\BSEnterprises.Domain\\BSEnterprises.Domain.csproj",
+      "packagesPath": "C:\\Users\\trishaanpc\\.nuget\\packages\\",
+      "outputPath": "d:\\Repos\\BSEnterprises\\BSEnterprises\\BSEnterprises.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\golu2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\trishaanpc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
